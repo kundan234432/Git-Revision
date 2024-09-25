@@ -1,4 +1,11 @@
 # Git-Revision 
-: How would you move your local repository to a remote GitHub repository? Describe the steps you would
-take to add the remote Git Hub repository, push your local changes, and verify that the files were successfully
-transferred[A[A[D[D[D[D[D[D[D[D[[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctask: [D[D[Dta[C[C[C[C[D[D[D[D[T[C[C[C[C to mmove local repository to remote repository
+# How would you move your local repository to a remote GitHub repository? 
+    Describe the steps you would take to add the remote Git Hub repository, push your local changes, and verify that the files 
+    were successfullytransferred move local repository to remote repository
+
+# steps: 
+go to git Bash terminal
+make a new directory
+$mkdir Revision
+$cd Revision
+# Step1 Make a new repository on Git-hub
